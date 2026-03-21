@@ -1,2 +1,4 @@
 mitbih_test.csv
 mitbih_train.csv
+Brain_Tumor_MRI
+best_cnn_brain_tumor_model.pth
